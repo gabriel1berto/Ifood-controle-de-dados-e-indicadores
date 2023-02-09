@@ -1,4 +1,6 @@
-# iGrowth___captura_de_dados
+# iGrowth
+Descrever o projeto igrowth por completo
 
-# testando onde isso vai aparecer
+
+## etapas do processo
 isso é uma headline?
