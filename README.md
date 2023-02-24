@@ -7,7 +7,7 @@ No MVP1 as automações foram desenvolvidas Python, processos de ELT  foram dese
 Diversas validações de mercado foram executadas antes de iniciarmos as automações de processos, além disso, operamos por 14 dias em mapeamento dos processos na metodologia BPMN com foco na identificação de fragilidades das automações.
   - Estratégias de validação: Pesquisa de mercado, Testes A/B, User interview e Feedback contínuo.
 
-## etapas do processo
+## Etapas
 Etapa 1: Automação 1
   - Objetivos: Automação de login em diversas contas e captura de bases financeiras individuais "LISTA_DE_PEDIDOS" e alimentar a base de dados "finalidade".
   - Processo: O processo envolve a captura de dados de um banco na núvem para a captura de logins, senhas e acessos, realiza inputs e manipulações na plataforma para a obtenção da base de dados "LISTA_DE_PEDIDOS" do dia anterior.
