@@ -21,7 +21,7 @@ Step 3: Visualização em Power BI 1
   - Objetivos: Visualizar de forma clara a performance financeira do restaurante para a obtenção de insights.
   - Dificuldades: Os usuários não eram habituados a utilizar ferramentas de visualização de dados, então tivemos que simplificar diversas informações para tornar possível a comunicação ideal dos dados, as estratégias foram validadas com testes A/B e user interview.
   
- ## Etapa 2 (desenvolvida e não comentada)
+ ## Etapa 2
  Step 4: Automação 2
  
  Step 5: ETL 2
