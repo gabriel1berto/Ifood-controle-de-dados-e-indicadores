@@ -20,7 +20,6 @@ Etapa 2: ELT 1
 Etapa 3: Visualização em Power BI 1
   - Objetivos: Visualizar de forma clara a performance financeira do restaurante para a obtenção de insights.
   - Dificuldades: Os usuários não eram habituados a utilizar ferramentas de visualização de dados, então tivemos que simplificar diversas informações para tornar possível a comunicação ideal dos dados, as estratégias foram validadas com testes A/B e user interview.
-  ![Visualização Inicial](https://user-images.githubusercontent.com/84819715/221195179-9a4b773f-2ca1-4c02-bc20-605865420610.png)
 
   
   
