@@ -2,7 +2,7 @@
 
 O objetivo do projeto iGrowth é desenvolver e insights e reports para restaurantes que vendem na plataforma Ifood.
 
-No MVP1 as automações foram desenvolvidas Python, processos de ELT  foram desenvolvidos em python, Data Visualization foram desenvolvidos em Power BI, bancos de dados foram desenvolvidos em colaboração com o Google Drive. 
+No MVP1 as automações foram desenvolvidas Python, processos de ELT  foram desenvolvidos em python, Data Visualization foram desenvolvidos em Power BI, bancos de dados foram desenvolvidos em colaboração com o Google Drive.
 
 Diversas validações de mercado foram executadas antes de iniciarmos as automações de processos, além disso, operamos por 14 dias em mapeamento dos processos na metodologia BPMN com foco na identificação de fragilidades das automações.
   - Estratégias de validação: Pesquisa de mercado, Testes A/B, User interview e Feedback contínuo.
